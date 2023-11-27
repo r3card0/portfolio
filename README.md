@@ -21,3 +21,10 @@ Por último, no busques trabajo. Busca una vida de la que no quieras retirarte j
 ¡Ah!, y olvídate de la estabilidad, eso es cosa del siglo pasado. Intenta gastar menos de lo que tienes. 
 
 ¿Has pensado en qué eres bueno? 
+
+
+|Habilidad / Fortaleza|
+|---------------------|
+| Gusto por aprender|
+| Comunicacion |
+| Empatia  |
