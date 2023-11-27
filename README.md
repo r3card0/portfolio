@@ -28,3 +28,10 @@ Por último, no busques trabajo. Busca una vida de la que no quieras retirarte j
 | Gusto por aprender|
 | Comunicacion |
 | Empatia  |
+
+
+- [ ] [Fundamentos de Data e inteligencia Artificial](https://platzi.com/new-home/mis-rutas/14378027/)
+- [ ] [Data Analyst](https://platzi.com/new-home/mis-rutas/10804796/)
+- [ ] [SQL Developer](https://platzi.com/new-home/mis-rutas/14639346/)
+- [ ] [Crear DataViz](https://platzi.com/new-home/mis-rutas/14639354/)
+- [ ] [Crear una app con IA](https://platzi.com/new-home/mis-rutas/14639340/)
