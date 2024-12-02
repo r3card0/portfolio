@@ -49,3 +49,6 @@ Por último, no busques trabajo. Busca una vida de la que no quieras retirarte j
 
 # Here's purpose
 HERE exists to **Reveal the Promise in every path**
+
+# Here's vision
+**Our live maps are the standars in every moving vehicle by 20235**
