@@ -30,8 +30,22 @@ Por último, no busques trabajo. Busca una vida de la que no quieras retirarte j
 | Empatia  |
 
 
+
+
+
 - [ ] [Fundamentos de Data e inteligencia Artificial](https://platzi.com/new-home/mis-rutas/14378027/)
 - [ ] [Data Analyst](https://platzi.com/new-home/mis-rutas/10804796/)
 - [ ] [SQL Developer](https://platzi.com/new-home/mis-rutas/14639346/)
 - [ ] [Crear DataViz](https://platzi.com/new-home/mis-rutas/14639354/)
 - [ ] [Crear una app con IA](https://platzi.com/new-home/mis-rutas/14639340/)
+
+
+# Purpose Principles at Here
+1. Rise to the challenge
+2. Channel Curiosity
+3. Chart new frontiers
+4. Advance by listening
+5. Earn trust at every turn
+
+# Here's purpose
+HERE exists to **Reveal the Promise in every path**
